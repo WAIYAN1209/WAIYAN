@@ -3,15 +3,15 @@
 
 {
          "name": "SG-FREE-001",
-         "url": "https://raw.githubusercontent.com/WAIYAN1209/WAIYAN/main/TH-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/WAIYAN1209/WAIYAN/blob/main/SG-FREE-001.ovpn"
       },
 {
          "name": "SG-FREE-002",
-         "url": "https://raw.githubusercontent.com/WAIYAN1209/WAIYAN/main/TH-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/WAIYAN1209/WAIYAN/blob/main/SG-FREE-002.ovpn"
       },
 {
          "name": "SG-FREE-003",
-         "url": "https://raw.githubusercontent.com/WAIYAN1209/WAIYAN/main/TH-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/WAIYAN1209/WAIYAN/blob/main/SG-FREE-003.ovpn"
       },
 {
          "name": "SG-VIP-001",
@@ -114,7 +114,7 @@
          "url": "https://raw.githubusercontent.com/WAIYAN1209/WAIYAN/main/TH-VIP-001.ovpn"
       } 
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 2\n\nConfig By:WAIYAN ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 3\n\nConfig By:WAIYAN ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 2
+   "version": 3
 }
