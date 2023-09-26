@@ -43,7 +43,7 @@
       },
 {
          "name": "TH-VIP-008",
-         "url": "https://raw.githubusercontent.com/WAIYAN1209/WAIYAN/main/TH-VIP-01.ovpn"
+         "url": "https://github.com/WAIYAN1209/WAIYAN/main/thaeei.ovpn"
       },
 {
          "name": "TH-VIP-009",
@@ -114,7 +114,7 @@
          "url": "https://raw.githubusercontent.com/WAIYAN1209/WAIYAN/main/TH-VIP-001.ovpn"
       } 
 ],
-"message":"Update အဆင့်မြှင့်တင်ရန်နှိပ်ပါ singapore free sever 3ခု\nAll New Servers\nVersion: 1\n\nConfig By:WAIYAN ",
+"message":"Update အဆင့်မြှင့်တင်ရန်နှိပ်ပါ\nAll New Servers\nVersion: 1.1\n\nConfig By:WAIYAN ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 1
+   "version": 1.1
 }
