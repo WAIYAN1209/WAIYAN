@@ -112,9 +112,14 @@
       {
          "name": "TH-VIP-025",
          "url": "https://raw.githubusercontent.com/WAIYAN1209/WAIYAN/main/TH-VIP-001.ovpn"
+      },
+      
+      {
+         "name": "TH-VIP-026",
+         "url": "https://raw.githubusercontent.com/WAIYAN1209/WAIYAN/main/TH-VIP-001.ovpn"
       } 
 ],
-"message":"Update အဆင့်မြှင့်တင်ရန်နှိပ်ပါ\nAll New Servers\nVersion: 1.6\n\nConfig By:WAIYAN ",
+"message":"Update အဆင့်မြှင့်တင်ရန်နှိပ်ပါ\nAll New Servers\nVersion: 1.7\n\nConfig By:WAIYAN ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 1.6
+   "version": 1.7
 }
